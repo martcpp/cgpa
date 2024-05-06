@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://varadbhogayata.github.io
+> https://martcpp.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/martcpp/https://martcpp.github.io/) 
 ![GitHub forks](https://img.shields.io/github/forks/martcpp/https://martcpp.github.io/)
